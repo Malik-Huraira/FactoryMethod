@@ -6,7 +6,7 @@ package com.mycompany.factorymethod;
 
 /**
  *
- * @author basitmalik
+ * @author Malikhuraira
  */
 public interface Shape {
     void draw();
