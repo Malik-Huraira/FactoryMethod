@@ -6,7 +6,7 @@ package com.mycompany.factorymethod;
 
 /**
  *
- * @author basitmalik
+ * @author Malikhuraira
  */
 public abstract class Geometry {
 	public abstract Shape createShape();
